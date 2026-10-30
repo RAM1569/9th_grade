@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1791189189 source:/home/sandex/Desktop/cpp/structura repetitiva/3001/main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+
