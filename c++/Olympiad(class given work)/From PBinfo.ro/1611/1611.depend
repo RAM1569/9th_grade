@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1792510595 source:/home/sandex/Desktop/cpp/olimpiada clasa/1611/main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+
